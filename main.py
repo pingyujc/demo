@@ -1,2 +1,2 @@
 print(hi)
-dnkn
+print(123)
